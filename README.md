@@ -2,7 +2,9 @@
   <img src="https://github.com/SalesforcePlatformGovernanceMethod/Phase-G/blob/f3e261b236ef75ede067b7327b6fc10ed48c64f9/images/phase-g.png" title="Phase G">
 </p>
 
-## Phase G: Communities
+# Phase G: Communities
+
+## Design
 
 - [Experience Cloud Basics](https://trailhead.salesforce.com/content/learn/modules/community_cloud_basics)
 
@@ -10,57 +12,15 @@
 
 - [Plan Your Implementation](https://help.salesforce.com/s/articleView?id=networks_planning_ahead.htm&type=5&language=en_US)
 
-**Authentication and Security**
+- [Experience Cloud License](https://help.salesforce.com/s/articleView?id=sf.users_license_types_communities.htm&type=5)
 
-- [Network Security](https://help.salesforce.com/s/articleView?id=sf.networks_security.htm&type=5)
+- [Provision Community Users](https://developer.salesforce.com/blogs/developer-relations/2014/06/how-to-provision-salesforce-communities-users)
 
-- [Customize Login Page](https://help.salesforce.com/s/articleView?id=sf.networks_customize_login_page.htm&type=5)
+- [Workspaces](https://help.salesforce.com/s/articleView?id=sf.networks_workspaces.htm&type=5)
 
-**Experience Cloud Licenses**
+- [Templates](https://help.salesforce.com/s/articleView?id=sf.siteforce_commtemp_intro.htm&type=5)
 
-- [Link](https://help.salesforce.com/s/articleView?id=sf.users_license_types_communities.htm&type=5)
-
-**Provision Community Users**
-
-- [Link](https://developer.salesforce.com/blogs/developer-relations/2014/06/how-to-provision-salesforce-communities-users)
-
-**Who Sees What in Communities**
-
-- [Link](https://help.salesforce.com/s/articleView?id=sf.networks_visibility.htm&type=5)
-
-**Sharing Sets**
-
-- [Setting Light Users](https://help.salesforce.com/s/articleView?id=sf.networks_setting_light_users.htm&type=5)
-
-- [Sharing Set Access](https://salesforcesidekick.com/2019/09/04/mastering-sharing-sets-in-communities/#:~:text=To%20access%20your%20Sharing%20Sets,want%20to%20grant%20sharing%20on)
-
-**Sharing Groups**
-
-- [Link](https://help.salesforce.com/s/articleView?id=sf.networks_sharing_light_users.htm&type=5)
-
-**Audiences**
-
-- [Visibility Overview](https://help.salesforce.com/s/articleView?id=sf.community_builder_page_visibilty_overview.htm&type=5)
-
-- [Audience Personalization](https://trailhead.salesforce.com/content/learn/projects/communities_personalize_audiences)
-
-**Workspaces**
-
-- [Link](https://help.salesforce.com/s/articleView?id=sf.networks_workspaces.htm&type=5)
-
-**Templates**
-
-- [Link](https://help.salesforce.com/s/articleView?id=sf.siteforce_commtemp_intro.htm&type=5)
-
-**Templates LWR**
-
-- [Link](https://developer.salesforce.com/docs/atlas.en-us.exp_cloud_lwr.meta/exp_cloud_lwr/intro_overview.htm)
-
-**Builder**
-
-- [Templates](https://help.salesforce.com/s/articleView?id=sf.community_designer_customize_templates.htm&type=5)
-
-- [Community Themes](https://trailhead.salesforce.com/en/content/learn/projects/communities_theme_layout/create_community_theme)
+- [Templates LWR](https://developer.salesforce.com/docs/atlas.en-us.exp_cloud_lwr.meta/exp_cloud_lwr/intro_overview.htm)
 
 **Site Performance**
 
@@ -86,15 +46,47 @@
 
 - [LDS Basics](https://trailhead.salesforce.com/content/learn/modules/lightning-design-system-basics)
 
-- [Link](https://github.com/salesforce-ux/design-system)
+- [SDLS Git Repo](https://github.com/salesforce-ux/design-system)
 
 **Mobile App**
 
-- [Link](https://help.salesforce.com/s/articleView?id=sf.networks_access_in_salesforce1.htm&type=5)
+- [Access Experience Cloud Sites in the Salesforce Mobile App](https://help.salesforce.com/s/articleView?id=sf.networks_access_in_salesforce1.htm&type=5)
 
 **Mobile Publisher**
 
-- [Branded Apps](https://help.salesforce.com/s/articleView?id=sf.s1_branded_apps.htm&type=5)
+-  [Branded Mobile Apps with Mobile Publisher](https://trailhead.salesforce.com/content/learn/modules/salesforce1_branded_apps)
+-  [Mobile Pablisher](https://help.salesforce.com/s/articleView?id=sf.s1_branded_apps.htm&type=5)
+
+**Builder**
+
+- [Templates](https://help.salesforce.com/s/articleView?id=sf.community_designer_customize_templates.htm&type=5)
+
+- [Community Themes](https://trailhead.salesforce.com/en/content/learn/projects/communities_theme_layout/create_community_theme)
+
+
+##  Identity Management
+
+**Authentication and Security**
+
+- [Who Sees What in Communities](https://help.salesforce.com/s/articleView?id=sf.networks_visibility.htm&type=5)
+
+- [Network Security](https://help.salesforce.com/s/articleView?id=sf.networks_security.htm&type=5)
+
+- [Customize Login Page](https://help.salesforce.com/s/articleView?id=sf.networks_customize_login_page.htm&type=5)
+
+**Sharing Sets**
+
+- [Setting Light Users](https://help.salesforce.com/s/articleView?id=sf.networks_setting_light_users.htm&type=5)
+
+- [Sharing Set Access](https://salesforcesidekick.com/2019/09/04/mastering-sharing-sets-in-communities/#:~:text=To%20access%20your%20Sharing%20Sets,want%20to%20grant%20sharing%20on)
+
+- [Sharing Groups](https://help.salesforce.com/s/articleView?id=sf.networks_sharing_light_users.htm&type=5)
+
+**Audiences**
+
+- [Visibility Overview](https://help.salesforce.com/s/articleView?id=sf.community_builder_page_visibilty_overview.htm&type=5)
+
+- [Audience Personalization](https://trailhead.salesforce.com/content/learn/projects/communities_personalize_audiences)
 
 **Guest User Access**
 
