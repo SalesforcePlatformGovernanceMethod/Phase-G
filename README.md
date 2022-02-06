@@ -55,7 +55,7 @@
 **Mobile Publisher**
 
 -  [Branded Mobile Apps with Mobile Publisher](https://trailhead.salesforce.com/content/learn/modules/salesforce1_branded_apps)
--  [Mobile Pablisher](https://help.salesforce.com/s/articleView?id=sf.s1_branded_apps.htm&type=5)
+-  [Mobile Publisher](https://help.salesforce.com/s/articleView?id=sf.s1_branded_apps.htm&type=5)
 
 **Builder**
 
